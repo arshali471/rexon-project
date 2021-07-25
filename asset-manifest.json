@@ -6,20 +6,20 @@
     "runtime-main.js": "/rexon-project/static/js/runtime-main.6a5a321d.js",
     "runtime-main.js.map": "/rexon-project/static/js/runtime-main.6a5a321d.js.map",
     "static/css/2.4be38407.chunk.css": "/rexon-project/static/css/2.4be38407.chunk.css",
-    "static/js/2.b6bbb1f5.chunk.js": "/rexon-project/static/js/2.b6bbb1f5.chunk.js",
-    "static/js/2.b6bbb1f5.chunk.js.map": "/rexon-project/static/js/2.b6bbb1f5.chunk.js.map",
+    "static/js/2.eff562c1.chunk.js": "/rexon-project/static/js/2.eff562c1.chunk.js",
+    "static/js/2.eff562c1.chunk.js.map": "/rexon-project/static/js/2.eff562c1.chunk.js.map",
     "static/js/3.3c7fea50.chunk.js": "/rexon-project/static/js/3.3c7fea50.chunk.js",
     "static/js/3.3c7fea50.chunk.js.map": "/rexon-project/static/js/3.3c7fea50.chunk.js.map",
     "index.html": "/rexon-project/index.html",
     "static/css/2.4be38407.chunk.css.map": "/rexon-project/static/css/2.4be38407.chunk.css.map",
     "static/css/main.8ff161c9.chunk.css.map": "/rexon-project/static/css/main.8ff161c9.chunk.css.map",
-    "static/js/2.b6bbb1f5.chunk.js.LICENSE.txt": "/rexon-project/static/js/2.b6bbb1f5.chunk.js.LICENSE.txt",
+    "static/js/2.eff562c1.chunk.js.LICENSE.txt": "/rexon-project/static/js/2.eff562c1.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/rexon-project/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.6a5a321d.js",
     "static/css/2.4be38407.chunk.css",
-    "static/js/2.b6bbb1f5.chunk.js",
+    "static/js/2.eff562c1.chunk.js",
     "static/css/main.8ff161c9.chunk.css",
     "static/js/main.2cefe485.chunk.js"
   ]
